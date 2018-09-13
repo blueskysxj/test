@@ -1,5 +1,5 @@
 Ext.application({
-	name: 'Admin',
+	name: 'Adminssss',
 	controllers:[
 		'SystemController'
 		,'InventoryController'
